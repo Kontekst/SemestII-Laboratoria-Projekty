@@ -1,0 +1,11 @@
+#pragma once
+#include<ostream>
+
+class WartoscLiczbowa
+{
+public:
+	virtual double modul() = 0; //wartoœæ bezwzglêdna
+	virtual void wypisz(std::ostream &out) = 0;
+	virtual ~WartoscLiczbowa() {}
+};
+
