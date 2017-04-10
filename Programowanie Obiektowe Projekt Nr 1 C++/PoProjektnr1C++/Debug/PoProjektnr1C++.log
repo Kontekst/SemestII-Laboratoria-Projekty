@@ -1,0 +1,54 @@
+﻿Build started 2017-04-06 23:20:13.
+     1>Project "C:\Users\Kontekstowy\Desktop\Paczki semestralne\Semestr 2\Programowanie Obiektowe\Po Projekt Nr 1 C++\PoProjektnr1C++\PoProjektnr1C++.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Animal.cpp Antelope.cpp DeadlyNightshade.cpp Fox.cpp Grass.cpp Guarana.cpp Human.cpp MyException.cpp Organism.cpp OrganismContainer.cpp Plant.cpp PoProjektnr1C++.cpp Sheep.cpp SowThistle.cpp stdafx.cpp Turtle.cpp Wolf.cpp World.cpp
+         World.cpp
+     1>c:\users\kontekstowy\desktop\paczki semestralne\semestr 2\programowanie obiektowe\po projekt nr 1 c++\poprojektnr1c++\world.cpp(81): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\kontekstowy\desktop\paczki semestralne\semestr 2\programowanie obiektowe\po projekt nr 1 c++\poprojektnr1c++\world.cpp(505): warning C4552: '-': operator has no effect; expected operator with side-effect
+         Wolf.cpp
+         Turtle.cpp
+         stdafx.cpp
+         SowThistle.cpp
+         Sheep.cpp
+         PoProjektnr1C++.cpp
+     1>c:\users\kontekstowy\desktop\paczki semestralne\semestr 2\programowanie obiektowe\po projekt nr 1 c++\poprojektnr1c++\poprojektnr1c++.cpp(86): warning C4101: 'w': unreferenced local variable
+         Plant.cpp
+     1>c:\users\kontekstowy\desktop\paczki semestralne\semestr 2\programowanie obiektowe\po projekt nr 1 c++\poprojektnr1c++\plant.cpp(21): warning C4101: 'humanMove': unreferenced local variable
+         OrganismContainer.cpp
+         Organism.cpp
+         MyException.cpp
+         Human.cpp
+         Guarana.cpp
+         Grass.cpp
+         Fox.cpp
+         DeadlyNightshade.cpp
+         Antelope.cpp
+         Animal.cpp
+     1>c:\users\kontekstowy\desktop\paczki semestralne\semestr 2\programowanie obiektowe\po projekt nr 1 c++\poprojektnr1c++\animal.cpp(14): warning C4101: 'humanMove': unreferenced local variable
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Kontekstowy\Desktop\Paczki semestralne\Semestr 2\Programowanie Obiektowe\Po Projekt Nr 1 C++\Debug\PoProjektnr1C++.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Kontekstowy\Desktop\Paczki semestralne\Semestr 2\Programowanie Obiektowe\Po Projekt Nr 1 C++\Debug\PoProjektnr1C++.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Kontekstowy\Desktop\Paczki semestralne\Semestr 2\Programowanie Obiektowe\Po Projekt Nr 1 C++\Debug\PoProjektnr1C++.lib" /MACHINE:X86 Debug\Animal.obj
+         Debug\Antelope.obj
+         Debug\DeadlyNightshade.obj
+         Debug\Fox.obj
+         Debug\Grass.obj
+         Debug\Guarana.obj
+         Debug\Human.obj
+         Debug\MyException.obj
+         Debug\Organism.obj
+         Debug\OrganismContainer.obj
+         Debug\Plant.obj
+         Debug\PoProjektnr1C++.obj
+         Debug\Sheep.obj
+         Debug\SowThistle.obj
+         Debug\stdafx.obj
+         Debug\Turtle.obj
+         Debug\Wolf.obj
+         Debug\World.obj
+         LINK : C:\Users\Kontekstowy\Desktop\Paczki semestralne\Semestr 2\Programowanie Obiektowe\Po Projekt Nr 1 C++\Debug\PoProjektnr1C++.exe not found or not built by the last incremental link; performing full link
+         PoProjektnr1C++.vcxproj -> C:\Users\Kontekstowy\Desktop\Paczki semestralne\Semestr 2\Programowanie Obiektowe\Po Projekt Nr 1 C++\Debug\PoProjektnr1C++.exe
+     1>Done Building Project "C:\Users\Kontekstowy\Desktop\Paczki semestralne\Semestr 2\Programowanie Obiektowe\Po Projekt Nr 1 C++\PoProjektnr1C++\PoProjektnr1C++.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:01:19.19
